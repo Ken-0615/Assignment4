@@ -1,0 +1,6 @@
+void main(){
+var names = ["Ahmed", "Bilal",
+"Muhammad", "Owais", "Muhammad", "Ali", "Ahmed"];
+  var uniquenames = names.toSet().toList();
+  print(distinctIds);
+}

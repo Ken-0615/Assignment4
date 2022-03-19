@@ -1,0 +1,6 @@
+void main(){
+  var x =7;
+  for (var a=1;a<16;a++){
+    print("$x * $a = ${x*a}");
+  }
+}

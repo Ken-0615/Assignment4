@@ -1,0 +1,12 @@
+void main() {
+  final List<dynamic> _nameList = [
+    "Bilal",
+    "Bilal",
+    "Bilal",
+    "Owais",
+    "Owais",
+    "Owais"
+  ];
+  final newlist = _nameList.toSet().toList();
+  print(newlist);
+}
